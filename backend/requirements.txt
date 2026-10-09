@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+sentence-transformers
+pydantic
+email-validator
+numpy
+spacy
+sqlalchemy
+psycopg2-binary
+pyjwt
+bcrypt
+python-dotenv
